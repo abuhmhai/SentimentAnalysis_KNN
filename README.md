@@ -58,6 +58,3 @@ The project follows these main steps:
 ## License
 This project is released under the [MIT License](https://opensource.org/licenses/MIT).
 
----
-
-Feel free to modify or expand upon this template to suit your project's needs!
