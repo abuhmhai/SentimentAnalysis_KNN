@@ -1,5 +1,5 @@
 
-# Product Review Classification using Machine Learning
+# Sentiment Analysis using KNN
 
 ## Introduction
 This project aims to classify product reviews as positive or negative using machine learning algorithms. The classification is based on the sentiment expressed in the review text. We will employ various text vectorization techniques and machine learning models to achieve this classification.
