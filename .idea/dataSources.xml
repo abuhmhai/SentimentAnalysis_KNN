@@ -8,5 +8,12 @@
       <jdbc-url>jdbc:sqlite:C:\Users\Administrator\PycharmProjects\SentimentAnalysis_KNN\final.sqlite</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="database" uuid="473d38b7-ac0c-45a6-ac6a-4c898aaeae5f">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\Administrator\PycharmProjects\SentimentAnalysis_KNN\input\database.sqlite</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
