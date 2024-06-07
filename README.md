@@ -39,12 +39,12 @@ The project follows these main steps:
    ```
 
 ## Usage
-1. Run the `Classification_Project.ipynb` Jupyter notebook to see the complete workflow.
+1. Run the `Amazon FineFood Sentiment KNN.ipynb` Jupyter notebook to see the complete workflow.
 2. Customize the code for your specific use case or dataset.
 3. Experiment with different text vectorization techniques and machine learning algorithms.
 
 ## Project Structure
-- `Classification_Project.ipynb`: Jupyter notebook containing source code and detailed explanations.
+- `Amazon FineFood Sentiment KNN.ipynb`: Jupyter notebook containing source code and detailed explanations.
 - `data/`: Directory containing input data.
 - `README.md`: Project overview and usage guide documentation.
 
